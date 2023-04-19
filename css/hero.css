@@ -1,6 +1,4 @@
-﻿
-
-body {
+﻿body {
     margin: 0;
     background-image: linear-gradient(90deg, #111344 0%, #16174e 5%, #2a307c 38%, #66174e 53%, #c23232 62%, #932528 95%, #81222a 100%); /*dark blue,light blue, purp blue, purp, purp red, light red, dark red*/
     font-family: 'Consolas', 'Courier', 'Helvetica', sans-serif;
