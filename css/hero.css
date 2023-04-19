@@ -19,6 +19,7 @@ header h1{
 
 h1, h2 {
     font-family: 'Acme', sans-serif;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.50);
 }
 
 header img {
@@ -26,8 +27,7 @@ header img {
     height: auto;
     border-radius: 50px 0px 50px 0px;
     border: 5px solid white; /*change color to reversed gradient of background image || border-image: linear-gradient(45deg, rgb(0,143,104), rgb(250,224,66)) 1; || doesn't work*/
-    box-shadow: 20px 20px 10px;
-
+    box-shadow: 15px 15px 5px rgba(0, 0, 0, 0.25);
 }
 
 main{
@@ -42,6 +42,7 @@ main img{
     height: auto;
     border-radius: 50px 0px 50px 0px;
     border: 5px solid white;
+    box-shadow: 15px 15px 5px rgba(0, 0, 0, 0.25);
 }
 
 h2 {
